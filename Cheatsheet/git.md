@@ -6,7 +6,7 @@ Description ==  Cheatsheet de l'outils Git pour Linux
 Tags        ==  Cheatsheet Tool Git
 
 Post_Type   ==  Cheatsheet
-Preview     ==  image/cli
+Preview     ==  cli
 Author      ==  Loxcy
 
 Version     == 0.1
