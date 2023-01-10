@@ -6,7 +6,7 @@ Description ==  Cheatsheet des commandes de l'outils de recherchefind sous Linux
 Tags        ==  Cheatsheet Tool Linux Find Recherche
 
 Post_Type   ==  Cheatsheet
-Preview     ==  image/cli
+Preview     ==  cli
 Author      ==  Loxcy
 
 Version     == 0.1
