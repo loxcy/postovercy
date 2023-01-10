@@ -1,3 +1,26 @@
+Qemu - Cheatsheet
+===============
+<!-- meta ------------------------------------------------------------------------------
+
+Description ==  Cheatsheet de l'outils Qemu
+Tags        ==  Cheatsheet Tool Qemu Linux
+
+Post_Type   ==  Cheatsheet
+Preview     ==  cli
+Author      ==  Loxcy
+
+Version     == 0.1
+Featured    == True
+Visible     == False
+Draft       == True
+
+created_at  == 2022-01-10 00:00:00
+published_at== 2022-01-10 00:00:00
+updated_at   == 2022-01-10 00:00:00
+
+
+---------------------------------------------------------------------------- endmeta -->
+
 ```bash
 # Lancement d'une machine virtuelle avec un fichier image disque
 qemu-system-x86_64 -hda /path/to/disk.img

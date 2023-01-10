@@ -1,5 +1,25 @@
-GNUPG CHEATSHEET
-=================
+GnuPG - Cheatsheet
+===============
+<!-- meta ------------------------------------------------------------------------------
+
+Description ==  Cheatsheet de l'outils GnuPG
+Tags        ==  Cheatsheet Tool Linux GnuPG GPG PGP
+
+Post_Type   ==  Cheatsheet
+Preview     ==  cli
+Author      ==  Loxcy
+
+Version     == 0.1
+Featured    == True
+Visible     == False
+Draft       == True
+
+created_at  == 2022-01-10 00:00:00
+published_at== 2022-01-10 00:00:00
+updated_at   == 2022-01-10 00:00:00
+
+
+---------------------------------------------------------------------------- endmeta -->
 
 ## Commande de base
 ```bash

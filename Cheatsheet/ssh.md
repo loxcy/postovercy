@@ -1,3 +1,26 @@
+SSH - Cheatsheet
+===============
+<!-- meta ------------------------------------------------------------------------------
+
+Description ==  Cheatsheet de l'outils SSH
+Tags        ==  Cheatsheet Tool SSH Linux
+
+Post_Type   ==  Cheatsheet
+Preview     ==  cli
+Author      ==  Loxcy
+
+Version     == 0.1
+Featured    == True
+Visible     == False
+Draft       == True
+
+created_at  == 2022-01-10 00:00:00
+published_at== 2022-01-10 00:00:00
+updated_at   == 2022-01-10 00:00:00
+
+
+---------------------------------------------------------------------------- endmeta -->
+
 ## Installer le serveur
 ```sh
 sudo dnf install openssh-server -y

@@ -1,5 +1,25 @@
-Venv
-====
+Venv - Cheatsheet
+===============
+<!-- meta ------------------------------------------------------------------------------
+
+Description ==  Cheatsheet de l'outils Venv
+Tags        ==  Cheatsheet Tool Venv Python 
+
+Post_Type   ==  Cheatsheet
+Preview     ==  cli
+Author      ==  Loxcy
+
+Version     == 0.1
+Featured    == True
+Visible     == False
+Draft       == True
+
+created_at  == 2022-01-10 00:00:00
+published_at== 2022-01-10 00:00:00
+updated_at   == 2022-01-10 00:00:00
+
+
+---------------------------------------------------------------------------- endmeta -->
 
 La commande venv est utilisée pour créer un environnement virtuel Python. Un environnement virtuel Python est un répertoire qui contient une installation indépendante de Python, ainsi que tous les paquets Python qui sont installés dans cet environnement. L'utilisation d'environnements virtuels permet de séparer les dépendances de différents projets Python, ce qui peut être utile lorsque différents projets utilisent des versions différentes de paquets ou des paquets qui entrent en conflit.
 
