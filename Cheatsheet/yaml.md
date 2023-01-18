@@ -9,7 +9,7 @@ Post_Type   ==  Cheatsheet
 Preview     ==  cli
 Author      ==  Loxcy
 
-Version     == 0.1
+Version     == 0.2
 Featured    == True
 Visible     == False
 Draft       == True
@@ -24,7 +24,7 @@ updated_at   == 2022-01-10 00:00:00
 
 ### **Introduction à YAML**
 
-YAML (acronyme de "YAML Ain't Markup Language") est un langage de marqueur léger utilisé pour la représentation de données structurées. Il a été créé pour faciliter la lecture et l'écriture de fichiers de configuration et de données par des humains, et est souvent utilisé pour remplacer les formats de données plus verbeux tels que XML et JSON.
+YAML (l'acronyme de "YAML Ain't Markup Language") est un langage de marqueur léger utilisé pour la représentation de données structurées. Il a été créé pour faciliter la lecture et l'écriture de fichiers de configuration et de données par des humains, et est souvent utilisé pour remplacer les formats de données plus verbeux tels que XML et JSON.
 
 ### **Définition et contexte d'utilisation de YAML**
 
