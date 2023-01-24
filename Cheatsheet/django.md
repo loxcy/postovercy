@@ -6,7 +6,7 @@ Description ==  Cheatsheet du framework django
 Tags        ==  Cheatsheet Tool Django Python
 
 Post_Type   ==  Cheatsheet
-Preview     ==  cli
+Preview     ==  django
 Author      ==  Loxcy
 
 Version     == 0.1

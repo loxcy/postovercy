@@ -7,7 +7,7 @@ Description ==  Cheatsheet des commandes de l'outils de manipulation des archive
 Tags        ==  Cheatsheet Tool Linux Tar Archive Compression bz2 pbzip2 pigz gzip
 
 Post_Type   ==  Cheatsheet
-Preview     ==  cli
+Preview     ==  code
 Author      ==  Loxcy
 
 Version     == 0.33
