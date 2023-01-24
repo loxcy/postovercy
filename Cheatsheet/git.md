@@ -30,6 +30,8 @@ git add .               ## Ajoute le dossier complet a la liste d'attente du pro
 git add -A              ## Ajoute le dossier complet a la liste d'attente du prochain commit
 git commit -m 'Comm'    ## commit les fichier changés et ajoute un commentaire 
 git diff                ## Analyse la difference entre les anciens fichiers et ceux en liste d'attente
+git fetch               ## Télécharge les modifications distantes, mais ne les fusionne pas
+git pull                ## Télécharge les modifications distantes et les fusionne avec la branche courante
 ```
 
 ## Branche
