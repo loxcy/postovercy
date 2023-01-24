@@ -1,6 +1,25 @@
 MARKDOWN CHEAT SHEET
 ====================
+<!-- meta ------------------------------------------------------------------------------
 
+Description ==  Cheatsheet MARKDOWN
+Tags        ==  Cheatsheet MARKDOWN
+
+Post_Type   ==  Cheatsheet
+Preview     ==  cli
+Author      ==  Loxcy
+
+Version     == 0.1
+Featured    == True
+Visible     == False
+Draft       == True
+
+created_at  == 2022-01-10 00:00:00
+published_at== 2022-01-10 00:00:00
+updated_at   == 2022-01-10 00:00:00
+
+
+---------------------------------------------------------------------------- endmeta -->
 Sommaire:
 ---
 
