@@ -2,10 +2,10 @@ Les disques SSD
 ======
 <!-- meta ------------------------------------------------------------------------------
 
-Description ==  Cheatsheet du framework django
-Tags        ==  Cheatsheet Tool Django Python
+Description ==  Les ssd et types de mémoire
+Tags        ==  Article SSD memoire
 
-Post_Type   ==  Cheatsheet
+Post_Type   ==  Article
 Preview     ==  django
 Author      ==  Loxcy
 
@@ -14,9 +14,9 @@ Featured    == True
 Visible     == False
 Draft       == True
 
-created_at  == 2022-01-10 00:00:00
-published_at== 2022-01-10 00:00:00
-updated_at   == 2022-01-10 00:00:00
+created_at  == 2022-01-15 00:00:00
+published_at== 2022-01-15 00:00:00
+updated_at   == 2022-01-15 00:00:00
 
 
 ---------------------------------------------------------------------------- endmeta -->
